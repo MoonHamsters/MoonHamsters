@@ -1,3 +1,4 @@
+![Image alt](https://i.imgur.com/RuxDqT0.png)
 
 MoonHamsters development tree
 
